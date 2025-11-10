@@ -1,0 +1,6 @@
+
+1)What is programming? Understanding Python as a beginner-friendly language
+->Programming is the process of giving instructions to a computer to perform specific tasks.
+These instructions are written in a programming language — a set of rules and syntax that the computer understands.
+
+Python is beginner-friendly because it has a simple, readable syntax, works across platforms, and offers powerful libraries for various tasks like data analysis, web development, and automation. Its large community and easy learning curve make it ideal for beginners to start coding quickly.
