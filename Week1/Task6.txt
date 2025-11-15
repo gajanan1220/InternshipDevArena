@@ -1,0 +1,20 @@
+⭐ Step-by-step understanding
+1️⃣ Python reads the file from top to bottom
+
+It starts from the first line.
+
+2️⃣ It runs each line one by one
+
+Like a person following instructions.
+
+3️⃣ Variables are created
+
+name = "Gajanan" → stored in memory.
+
+4️⃣ Python performs operations
+
+result = a + b → adds 10 + 5.
+
+5️⃣ Python prints output on screen
+
+That’s what print() does.

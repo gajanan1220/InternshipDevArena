@@ -1,0 +1,10 @@
+2)Variables: Containers to store data (numbers, text, True/False values)
+-->Variables are containers used to store data in a program.
+   Common data types include:
+
+✔ Integer (int) – whole numbers
+✔ Float – decimal numbers
+✔ String (str) – text
+✔ Boolean (bool) – True or False
+✔ List, Tuple, Dictionary – collections of values
+
