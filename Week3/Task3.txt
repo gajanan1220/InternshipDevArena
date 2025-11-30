@@ -1,0 +1,8 @@
+Theory:
+
+A for loop is used to repeat a block of code a fixed number of times.
+It goes through each item in a sequence like a list, string, or range.
+
+Example:
+for i in range(5):
+    print("Hello")

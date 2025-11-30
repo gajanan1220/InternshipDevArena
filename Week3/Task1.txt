@@ -1,0 +1,4 @@
+What is data analysis? Why it’s important
+Data analysis is the process of inspecting, cleaning, and modeling data to discover useful information.
+Importance: Helps businesses make decisions, identify trends, and solve problems.
+Example: An insurance company analyzing claim data to detect fraud patterns.

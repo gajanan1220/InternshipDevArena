@@ -1,0 +1,6 @@
+Simple statistics: average, maximum, minimum values
+Pandas makes it easy to calculate basic statistics.
+Example:
+print(df["Age"].mean())   # average age
+print(df["Age"].max())    # maximum age
+print(df["Age"].min())    # minimum age

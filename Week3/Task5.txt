@@ -1,0 +1,11 @@
+Theory:
+
+A function is a reusable block of code that performs a specific task.
+Functions make code cleaner, easier to maintain, and reusable.
+They are created using the def keyword.
+
+Example:
+def greet(name):
+    print("Hello", name)
+
+greet("Gajanan")
