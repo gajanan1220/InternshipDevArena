@@ -1,0 +1,5 @@
+Exploring data: basic information
+You can quickly see the shape, column names, and summary of your dataset.
+Example:
+print(df.info())
+print(df.describe())

@@ -1,0 +1,6 @@
+Pandas library: Excel‑like operations in Python
+Pandas is a Python library that makes working with tabular data easy, similar to Excel.
+Example:
+import pandas as pd
+df = pd.DataFrame({"Name": ["A", "B"], "Age": [25, 30]})
+print(df)
