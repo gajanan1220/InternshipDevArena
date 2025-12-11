@@ -1,0 +1,2 @@
+Line charts: how they show trends over time.
+Line charts connect data points with a continuous line, making them ideal for showing trends over time. They are commonly used to track changes in stock prices, temperature, or website traffic across days, months, or years.

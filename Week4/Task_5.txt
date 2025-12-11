@@ -1,0 +1,2 @@
+Pie charts: how they show parts of a whole.
+Pie charts divide a circle into slices to illustrate numerical proportions. Each slice represents a category's contribution to the total. They are useful for showing percentage breakdowns, such as market share or budget allocation.

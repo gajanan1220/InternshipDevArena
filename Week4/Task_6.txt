@@ -1,0 +1,8 @@
+Putting it all together: complete data analysis workflow.
+A complete data analysis workflow includes:
+1. Collecting and cleaning data
+2. Exploring data through summary statistics and visualizations
+3. Analyzing patterns and relationships
+4. Drawing conclusions and making decisions
+5. Communicating results using charts, graphs, and reports
+Visualization plays a key role in every step by making data more accessible and insights more understandable.

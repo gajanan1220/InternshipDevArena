@@ -1,0 +1,2 @@
+Bar charts: how they compare categories like products, months, cities.
+Bar charts use rectangular bars to represent data values for different categories. The length or height of each bar corresponds to the value it represents. They are ideal for comparing quantities across categories such as product sales, monthly revenue, or population of cities.

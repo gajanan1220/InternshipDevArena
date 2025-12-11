@@ -1,0 +1,7 @@
+Matplotlib basics: how to create simple charts in Python.
+Matplotlib is a popular Python library for creating static, animated, and interactive visualizations. To create a simple chart:
+1. Import matplotlib.pyplot as plt
+2. Prepare your data
+3. Use functions like plt.plot(), plt.bar(), or plt.pie()
+4. Customize with titles, labels, and legends
+5. Display using plt.show()

@@ -1,0 +1,4 @@
+Why visualize data? Explain importance of charts and graphs.
+Data visualization helps us understand complex data by representing it in a visual context. 
+Charts and graphs make patterns, trends, and outliers easier to see, enabling quicker and more effective decision-making. 
+They simplify data interpretation and help communicate insights clearly to others.
