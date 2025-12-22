@@ -1,0 +1,2 @@
+String Operations on Text Data in DataFrames:
+Pandas provides vectorized string functions through the .str accessor for text data. Common operations include lower(), upper(), contains(), replace(), split(), and strip(). These functions help clean and manipulate textual data efficiently across entire columns.

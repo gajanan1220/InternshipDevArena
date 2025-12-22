@@ -1,0 +1,8 @@
+customer_id,customer_name,segment,region,signup_date
+C001,John Smith,Retail,North,2022-11-15
+C002,Sophia Lee,Wholesale,West,2021-07-04
+C003,Maria Garcia,Retail,South,2022-01-22
+C004,Liam Patel,Wholesale,East,2023-03-10
+C005,Emma Johnson,Retail,East,2023-05-18
+C006,Noah Williams,Retail,North,2021-12-01
+

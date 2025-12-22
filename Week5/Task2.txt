@@ -1,0 +1,2 @@
+Working with Multiple Conditions for Data Filtering:
+Data filtering with multiple conditions allows selecting rows that meet specific criteria. In pandas, logical operators like &, |, and ~ are used with parentheses to combine multiple conditions. For example: df[(df['age'] > 30) & (df['gender'] == 'Male')] filters rows where age is greater than 30 and gender is Male.

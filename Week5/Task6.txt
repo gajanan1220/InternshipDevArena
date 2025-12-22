@@ -1,0 +1,2 @@
+Pivot Tables for Data Summarization:
+Pivot tables in pandas are created using the pivot_table() function. They allow summarizing data by grouping and aggregating values across multiple dimensions. Users can specify index, columns, and values along with aggregation functions like mean, sum, or count to generate insightful summaries.

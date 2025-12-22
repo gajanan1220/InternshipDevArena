@@ -1,0 +1,2 @@
+Handling Datetime Data and Extracting Date Parts:
+Datetime handling in pandas involves converting strings to datetime objects using pd.to_datetime(). Once converted, attributes like .dt.year, .dt.month, .dt.day, .dt.weekday, etc., can be used to extract specific parts of the date. This is essential for time series analysis and date-based filtering.

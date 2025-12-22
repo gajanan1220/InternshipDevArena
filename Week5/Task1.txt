@@ -1,0 +1,2 @@
+Data Grouping and Aggregation Operations:
+Grouping and aggregation are used to summarize and analyze data. In pandas, 'groupby()' is used to split data into groups based on some criteria, and then aggregate functions like sum(), mean(), count(), etc., are applied to each group. This is useful for analyzing patterns and trends within subsets of data.

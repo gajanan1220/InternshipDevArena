@@ -1,0 +1,18 @@
+Flask==3.0.0
+Flask-SQLAlchemy==3.1.1
+Flask-Login==0.6.3
+Flask-WTF==1.2.1
+WTForms==3.1.1
+Werkzeug==3.0.1
+
+# Database drivers (install only what you need):
+# For PostgreSQL: pip install psycopg2-binary
+# For MySQL: pip install pymysql
+# SQLite is included with Python by default
+
+# Data analysis
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+
