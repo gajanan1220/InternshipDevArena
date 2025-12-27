@@ -1,0 +1,1 @@
+Subplots allow multiple charts in one figure, helping compare different datasets or visualizations side by side.

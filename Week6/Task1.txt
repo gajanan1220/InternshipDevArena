@@ -1,0 +1,1 @@
+Seaborn is a Python data visualization library built on Matplotlib. It is mainly used for creating statistical visualizations easily and efficiently.

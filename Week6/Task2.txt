@@ -1,0 +1,2 @@
+Box plots show data distribution and outliers, violin plots show density and distribution,
+and heatmaps use color intensity to represent data values such as correlations.

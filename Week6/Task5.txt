@@ -1,0 +1,1 @@
+Plotly is used to create interactive visualizations with features like hover info, zooming, and dynamic filtering.
